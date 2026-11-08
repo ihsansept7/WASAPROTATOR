@@ -3,6 +3,6 @@
    File ini hanya boleh berisi key publik (anon/publishable), BUKAN service_role/secret key.
 */
 window.WA_ROTATOR_CONFIG = {
-  SUPABASE_URL: "ISI_PROJECT_URL_SUPABASE",
-  SUPABASE_ANON_KEY: "ISI_PUBLISHABLE_ATAU_ANON_KEY"
+  SUPABASE_URL: "xsamldwlpsznaxjzvpkw",
+  SUPABASE_ANON_KEY: "sb_publishable_ltC1ohg7TqJDwSwlwkOcGQ_vi89Nv3J"
 };
