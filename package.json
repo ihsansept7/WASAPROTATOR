@@ -1,0 +1,9 @@
+{
+  "name": "wa-rotator-supabase-vercel",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vercel dev" },
+  "dependencies": { "@supabase/supabase-js": "^2.49.1" },
+  "devDependencies": { "vercel": "^41.0.0" }
+}

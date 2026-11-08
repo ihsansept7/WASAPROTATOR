@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/r/:project", "destination": "/api/rotate?project=:project" }
+  ]
+}
